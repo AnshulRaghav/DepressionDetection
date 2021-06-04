@@ -6,8 +6,9 @@ Social media platforms are becoming an integral part of people’s life. They re
 
 - clone the repository
 - install necessary packages via pip
-- run app.py
+- run app.py in root directory
 - enter text in textbox
+**Note:** You have to install java sdk 
 
 ### Tools used
 - Data Collection: Python, Praw, Requests, and Pandas.
