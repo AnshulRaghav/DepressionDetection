@@ -8,6 +8,7 @@ Social media platforms are becoming an integral part of people’s life. They re
 - install necessary packages via pip
 - run app.py in root directory
 - enter text in textbox
+
 <br>**Note:** You have to install java sdk 
 
 ### Tools used
