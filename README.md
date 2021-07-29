@@ -1,5 +1,6 @@
 # Detecting depression in comments,tweets or any form of text using NLP.
 
+![Screenshot](https://github.com/AnshulRaghav/DepressionDetection/blob/master/out.png)
 Social media platforms are becoming an integral part of people’s life. They reflect user’s personal life. People likes to share happiness, joy and sadness on social media. These platforms are used for researchers to identify the causes of depression and detect it.
 
 ### How to use
